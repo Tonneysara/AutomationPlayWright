@@ -47,7 +47,7 @@ Install the following:
 
 Clone the project from GitHub:
 
-git clone <your-github-repository-url>
+git clone git clone https://github.com/Tonneysara/AutomationPlayWright.git
 
 Open the project in Eclipse as a Maven project.
 
